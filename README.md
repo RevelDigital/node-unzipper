@@ -12,7 +12,7 @@
 [coverage-image]: https://3tjjj5abqi.execute-api.us-east-1.amazonaws.com/prod/node-unzipper/badge
 [coverage-url]: https://3tjjj5abqi.execute-api.us-east-1.amazonaws.com/prod/node-unzipper/url
 
-# unzipper
+# unzipper revel
 
 This is an active fork and drop-in replacement of the [node-unzip](https://github.com/EvanOxfeld/node-unzip) and addresses the following issues:
 * finish/close events are not always triggered, particular when the input stream is slower than the receivers
